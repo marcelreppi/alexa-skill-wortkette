@@ -1,0 +1,15 @@
+{
+  "name": "alexa_skill",
+  "version": "1.0.0",
+  "description": "wortkette spiel für alexa",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcel Reppenhagen",
+  "license": "ISC"
+}
