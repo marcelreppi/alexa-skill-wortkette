@@ -1,7 +1,7 @@
 'use strict';
 
 const Alexa = require('alexa-sdk');
-const APP_ID = 'amzn1.ask.skill.36dd3428-ac1b-4a2f-8f73-585377047435';
+const APP_ID // removed from public
 
 const words = require('./words.js')
 
